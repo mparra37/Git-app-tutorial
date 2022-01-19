@@ -52,4 +52,16 @@
         android:text="git log"
         android:layout_marginLeft="16dp"/>
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="git push"
+        android:layout_marginLeft="16dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="git pull"
+        android:layout_marginLeft="16dp"/>
+
 </LinearLayout>
